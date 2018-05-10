@@ -7,3 +7,8 @@ Route::get('/', function () {
 Route::get('test', function() {
     return 'test from vaska';
 });
+
+Route::get('dato', function() {
+    return 'test from dato';
+});
+
