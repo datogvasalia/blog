@@ -12,3 +12,8 @@ Route::get('dato', function() {
     return 'test from dato';
 });
 
+Route::get('gia', function() {
+    return 'test from gia';
+});
+
+
